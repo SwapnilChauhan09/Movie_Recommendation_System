@@ -27,5 +27,7 @@ Now let's explore the tip of the iceberg by following the three methods for a re
 2. Content Based Filtering
 3. Collaborative Filtering
 
+Here is link to datasets that I've used in this project -  <a href="https://drive.google.com/drive/folders/12PBkG_Ro8YUFyjZPhS_lkEWi6tTRgTTn?usp=sharing"> here </a>
+
 
 
